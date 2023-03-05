@@ -5,7 +5,7 @@ import TheView from '@/layouts/TheView.vue';
 
 <template>
   <TheHeader></TheHeader>
-  <TheVeiw></TheVeiw>
+  <TheView1></TheView1>
 </template>
 
 <style></style>
